@@ -1,4 +1,4 @@
-# ☁️ AI Music Matchmaker
+#  AI Music Matchmaker
 
 An AI-driven music recommendation web application built with **Streamlit**, **Last.fm API**, and **Google Gemini 3.6 Flash**. 
 
@@ -6,7 +6,7 @@ AI Music Matchmaker finds new music based on specific audio attributes, arrangem
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * ** Cloud-Pastel & Cyber Dark UI:** Styled with custom CSS featuring soft pastel gradients, rounded card containers, and a one-click theme toggle switch.
 * ** Last.fm Track Verification:** Queries the Last.fm database to verify reference tracks and retrieve accurate metadata.
