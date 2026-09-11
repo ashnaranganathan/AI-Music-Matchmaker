@@ -8,16 +8,16 @@ AI Music Matchmaker finds new music based on specific audio attributes, arrangem
 
 ## ✨ Key Features
 
-* **☁️ Cloud-Pastel & Cyber Dark UI:** Styled with custom CSS featuring soft pastel gradients, rounded card containers, and a one-click theme toggle switch.
-* **🎵 Last.fm Track Verification:** Queries the Last.fm database to verify reference tracks and retrieve accurate metadata.
-* **🤖 Gemini 3.6 Flash Intelligence:** Leverages Google's `gemini-3.6-flash` model to analyze track characteristics and recommend matching songs.
-* **💊 Preset Vibe Pills & Audio Filters:** Quick-select preset tags (*Atmospheric Guitar Intro*, *Dark Trap Beat*, *Smooth Vocal Flow*) alongside fine-tuning sliders for tempo, mood, and release era.
-* **🎧 Direct Streaming Search Links:** Formats generated recommendations with direct search shortcuts for Spotify and YouTube.
-* **📜 Session History:** Tracks your recent searches during your active session so you can compare previous recommendations.
+* ** Cloud-Pastel & Cyber Dark UI:** Styled with custom CSS featuring soft pastel gradients, rounded card containers, and a one-click theme toggle switch.
+* ** Last.fm Track Verification:** Queries the Last.fm database to verify reference tracks and retrieve accurate metadata.
+* ** Gemini 3.6 Flash Intelligence:** Leverages Google's `gemini-3.6-flash` model to analyze track characteristics and recommend matching songs.
+* ** Preset Vibe Pills & Audio Filters:** Quick-select preset tags (*Atmospheric Guitar Intro*, *Dark Trap Beat*, *Smooth Vocal Flow*) alongside fine-tuning sliders for tempo, mood, and release era.
+* ** Direct Streaming Search Links:** Formats generated recommendations with direct search shortcuts for Spotify and YouTube.
+* ** Session History:** Tracks your recent searches during your active session so you can compare previous recommendations.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend/Framework:** [Streamlit](https://streamlit.io/)
 * **AI Model:** [Google Gemini API](https://ai.google.dev/) (`gemini-3.6-flash`) via the `google-genai` SDK
@@ -26,7 +26,7 @@ AI Music Matchmaker finds new music based on specific audio attributes, arrangem
 
 ---
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 ### Prerequisites
 
